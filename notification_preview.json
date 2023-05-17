@@ -1,0 +1,63 @@
+{
+    "AppPush": [
+        {
+            "MsgId": 18,
+            "IsDisposable": true,
+            "Severity": "Success",
+            "Title": "[EN] Collapse Codename: Version Kiana patch (v1.70.1 preview) is up!",
+            "Message": "The new v1.70.1 preview is up with some hotfixes and additional features, including a new Repair and Cache update feature for Honkai: Star Rail. Please update your launcher to the latest version to experience the new features.",
+            "Show": true,
+            "ValidForVerBelow": "1.70.1.0",
+            "ActionProperty": {
+                "ActionType": "ClickLink",
+                "ActionValue": {
+                    "URL": "https://github.com/neon-nyan/Collapse/releases/tag/CL-v1.70.1-pre",
+                    "Description": "See Bug Fixes",
+                    "GlyphIcon": "",
+                    "GlyphFont": "FontAwesomeSolid"
+                }
+            }
+        }
+    ],
+    "RegionPush": [
+        {
+            "MsgId": 5000021,
+            "IsDisposable": true,
+            "Severity": "Warning",
+            "RegionProfile": "GIGlb",
+            "ValidForVerBelow": "1.69.12.0",
+            "Title": "[EN] Regarding Issues with Collapse on Genshin Impact 3.6 Update",
+            "Message": "Collapse 1.69.14 preview - Codename: Version Kiana was released. Please update to the latest version to ensure that you can continue playing Genshin Impact if you are updating from version 3.5 or earlier. This is to ensure that Collapse is able to properly update your game and prevent many of the issues present on previous Collapse versions. Thanks!",
+            "Show": true
+        },
+        {
+            "MsgId": 6000016,
+            "IsDisposable": true,
+            "Severity": "Warning",
+            "RegionProfile": "GICN",
+            "ValidForVerBelow": "1.69.12.0",
+            "Title": "[EN] Regarding Issues with Collapse on Genshin Impact 3.6 Update",
+            "Message": "Collapse 1.69.14 preview - Codename: Version Kiana was released. Please update to the latest version to ensure that you can continue playing Genshin Impact if you are updating from version 3.5 or earlier. This is to ensure that Collapse is able to properly update your game and prevent many of the issues present on previous Collapse versions. Thanks!",
+            "Show": true
+        },
+        {
+            "MsgId": 7000002,
+            "IsDisposable": true,
+            "Severity": "Informational",
+            "RegionProfile": "SRGlb",
+            "Title": "[EN] Official Release Trailer - \"Interstellar Journey\"",
+            "Show": true,
+            "TimeBegin": "2023-04-25T10:00:00+08:00",
+            "TimeEnd": "2023-04-26T10:00:00+08:00",
+            "ActionProperty": {
+                "ActionType": "ClickLink",
+                "ActionValue": {
+                    "URL": "https://www.youtube.com/watch?v=w8vPZrMFiZ4",
+                    "Description": "Watch Release Trailer",
+                    "GlyphIcon": "",
+                    "GlyphFont": "FontAwesomeBrand"
+                }
+            }
+        }
+    ]
+}
